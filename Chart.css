@@ -1,8 +1,14 @@
-.label div {
+h1 {
+font: 20px sans-serif;
+  text-align: left;
+
+}
+.chart div {
   font: 10px sans-serif;
-  background-color: steelblue;
+  background-color: rgb(178, 0, 0);
   text-align: right;
   padding: 3px;
   margin: 10px;
   color: white;
 }
+
