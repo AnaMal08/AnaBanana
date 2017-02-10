@@ -8,5 +8,5 @@ Here's the bl.ock we'd like to load in JSFiddle
 
 Aand here is the JSFIDDLE address
 
-http://jsfiddle.net/gh/get/library/pure/AnaMal08/Chart/tree/master/
+http://jsfiddle.net/gh/get/library/pure/AnaMal08/Chart2/tree/master/
 
